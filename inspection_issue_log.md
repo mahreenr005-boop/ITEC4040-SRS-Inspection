@@ -2,7 +2,7 @@
 
 **Project:** ITEC 4040 Term Project – SRS Inspection of the South Northern University (SNU) Faculty of Science Grants Management System
 **Meeting Date:** Sunday, November 22, 2026, 2:00 PM to 4:00 PM (Zoom)
-**Recorder:** Mahreen Rahman
+**Recorder:** Person 2
 
 
 - **Type:** 
