@@ -24,8 +24,8 @@
 | 7 | Invalid | Minor | `Main.md` 2.2 | Accounting and IT are listed as user classes, but they are stakeholders who do not use the system. | Ali |
 | 8 | Untraceable | Major | `Main.md` 2.2–2.5 | Facts about users, servers and the login system never cite the interview they came from (e.g. 17 Department Chairs from DEAN-01). | Mahreen |
 | 9 | Untraceable | Minor | `Main.md` 2.2 | "1–3 IT System Administrators" is not supported by the IT interview. | Mahreen |
-| 10 | Ambiguous | Minor | `Main.md` 2.2 | "9 faculty, with Chair" is unclear about whether the Chair is one of the 9. CHAIR-01 says 11 voting members (9 faculty and 2 students). | Mahreen |
-| 11 | Incomplete | Minor | `Main.md` 1.2 | Does not explain the ID labels used throughout (BR-nn, DR-4.3-nn, SI-5.2-nn, QR-6.5-nn) or the evidence codes (DEAN-nn, RO-nn). | Mahreen |
+| 10 | Ambiguous | Minor | `Main.md` 2.2 | "9 faculty, with Chair" is unclear about whether the Chair is one of the 9. DEAN-01 says nine faculty plus two student representatives, and CHAIR-01 says eleven voting members. | Mahreen |
+| 11 | Incomplete | Minor | `Main.md` 1.2 | Mentions unique requirement IDs but does not explain the ID formats used (BR-nn, DR-4.3-nn, SI-5.2-nn, QR-6.5-nn) or the evidence codes (DEAN-nn, RO-nn). Also refers to "the Annex", which is not in the SRS. | Mahreen |
 | 12 | Incomplete | Major | `Main.md` 2.4 | Says no programming language is chosen, but IT-08 says the Java ecosystem is strongly preferred and a code licence and support agreement are essential. | Hana |
 | 13 | Incomplete | Minor | `Main.md` 3.0 | No log-in use case, although every user must sign in through Keycloak (5.2). | Ali |
 | 14 | Incomplete | Major | `Main.md` 3.0 | No use case for the applicant to check status or receive notifications (APP-02, APP-07, BR-15, BR-16). | Syed |
