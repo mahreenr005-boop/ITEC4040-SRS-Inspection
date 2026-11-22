@@ -9,7 +9,7 @@ This repository holds the original (non-anonymized) markdown versions of our SRS
 
 | Name | Role |
 | ---- | ---- |
-| Person 1 | Moderator, Inspector |
-| Person 2 | Recorder, Inspector |
-| Person 3 | Reader, Inspector |
-| Person 4 | Reader, Inspector |
+| Hana Khan | Moderator, Inspector |
+| Mahreen Rahman | Recorder, Inspector |
+| Ali Fareed | Reader, Inspector |
+| Syed Ahmed | Reader, Inspector |
