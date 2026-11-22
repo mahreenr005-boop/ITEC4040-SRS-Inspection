@@ -27,10 +27,10 @@
 | #   | Role      | Inspector | Preparation Time (hours) |
 | --- | --------- | --------- | ------------------------ |
 | 1   | Author    |   N/A        |       N/A                   |
-| 2   | Moderator, Inspector |     Hana Khan      |                          |
-| 3   | Recorder, Inspector  |   Mahreen Rahman        |                          |
-| 4   | Reader, Inspector    |  Ali Fareed         |                          |
-| 5   | Reader, Inspector |  Syed Ahmed         |                          |
+| 2   | Moderator, Inspector |     Hana Khan    |                          |
+| 3   | Recorder, Inspector  |  Mahreen Rahman     |                          |
+| 4   | Reader, Inspector    |  Ali Fareed       |                          |
+| 5   | Reader, Inspector |  Syed Ahmed      |                          |
 
 ## Inspection Data
 
