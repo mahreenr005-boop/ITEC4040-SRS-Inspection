@@ -42,7 +42,7 @@
 | Total Planning Effort    | 1.5 labor hours |
 | Total Overview Effort    | 0 labor hours (no separate overview meeting) |
 | Total Preparation Effort | 10 labor hours (Hana 2 + Mahreen 2.5 + Ali 2.5 + Syed 3) |
-| Actual Rework Effort     | N/A (the authors have not reworked the draft yet; reinspection is needed) |
+| Actual Rework Effort     | N/A|
 
 ## Inspection Process Description
 
