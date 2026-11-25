@@ -4,7 +4,7 @@
 ## Inspection Identification
 
 - **Project:** ITEC 4040 Term Project – SRS Inspection of the South Northern University (SNU) Faculty of Science Grants Management System
-- **Meeting Date:** Sunday, November 22, 2026, 2:30 PM start on Zoom (booked 2:00 to 4:00 PM; the meeting itself took 1 hour 11 minutes 44 seconds, and we started around 2:30)
+- **Meeting Date:** Sunday, November 22, 2026, 2:30 PM start on Zoom (booked 2:00 to 4:00 PM; the meeting itself took 1 hour 11 minutes 44 seconds, but we started around 2:30)
 
 ## Work Product Description
 
@@ -68,7 +68,7 @@
 - The group voted on the appraisal at the end, then covered the pages inspected, lessons learned and next steps.
 - The meeting took 1 hour 11 minutes 44 seconds (about 71.7 minutes), shorter than the 2-hour slot.
 - We inspected every in-scope section.
-- Left out: the sections the authors were told to leave out (4.1, 4.2, 5.1, 5.3, 5.4, the other quality attributes and the glossary), and everything about reviewing and adjudicating applications.
+- Left out: the sections the authors were told to leave out (4.1, 4.2, 5.1, 5.3, 5.4, the other quality attributes and the glossary), and reviewing and adjudicating applications were out of the draft's scope. We still checked 3.5.1 and 3.5.2 since the authors included them, and logged 3.5.2 as out of scope.
 
 ## Summary of Issues
 
