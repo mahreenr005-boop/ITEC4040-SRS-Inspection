@@ -107,8 +107,9 @@
 
 | Location | Typo | Correction |
 | -------- | ---- | ---------- |
-| `Main.md` 2.5 | Dependancies | Dependencies |
-| `Main.md` 1.3 | email motivated | email-based |
+| `Main.md` 2.5| Dependancies | Dependencies |
+| `Main.md` 1.3| email motivated | email-based |
+| `Main.md` 1.3| paper based| paper-based|
 
 
 
