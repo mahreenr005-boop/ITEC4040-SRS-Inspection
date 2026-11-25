@@ -4,7 +4,7 @@
 ## Inspection Identification
 
 - **Project:** ITEC 4040 Term Project – SRS Inspection of the South Northern University (SNU) Faculty of Science Grants Management System
-- **Meeting Date:** Sunday, November 22, 2026, 2:00 PM start on Zoom (booked 2:00 to 4:00 PM; the meeting itself took 1 hour 11 minutes 44 seconds)
+- **Meeting Date:** Sunday, November 22, 2026, 2:30 PM start on Zoom (booked 2:00 to 4:00 PM; the meeting itself took 1 hour 11 minutes 44 seconds, and we started around 2:30)
 
 ## Work Product Description
 
@@ -39,7 +39,7 @@
 | Planned for Inspection   | about 20 pages (18 in-scope files, about 9,850 words at 500 words per page) |
 | Actually Inspected       | about 20 pages (all in-scope sections) |
 | Meeting Time             | 1.20 hours (1 hour 11 minutes 44 seconds, about 71.7 minutes) |
-| Total Planning Effort    | 1.5 labor hours |
+| Total Planning Effort    | 3 labor hours |
 | Total Overview Effort    | 0 labor hours (no separate overview meeting) |
 | Total Preparation Effort | 10 labor hours (Hana 2 + Mahreen 2.5 + Ali 2.5 + Syed 3) |
 | Actual Rework Effort     | N/A|
@@ -48,7 +48,7 @@
 
 **Planning**
 - We received the anonymized SRS draft through our group forum.
-- We booked a 2-hour slot (Sunday, November 22, 2026, 2:00 to 4:00 PM on Zoom) and posted it in the group forum and Jira.
+- We booked a 2-hour slot (Sunday, November 22, 2026, 2:00 to 4:00 PM on Zoom, but we started around 2:30 instead) and posted it in the group forum and Jira.
 - Roles: Hana as Moderator, Ali and Syed as Readers, Mahreen as Recorder. All four members also acted as inspectors. The authors were not present because the SRS was anonymized.
 - We divided the document between the readers and inspectors so every section had someone responsible for it.
 
@@ -63,8 +63,8 @@
 - The SRS was inspected in 14 chunks, in this order: Sections 1 and 2; the Section 3 overview and use case diagram; the 8 use cases one at a time; Section 4.3; Section 5.2; Section 6.5; and the appendices.
 - In each chunk the reader paraphrased the section in their own words. Syed and Ali alternated as reader (Syed read Section 1 and Ali read Section 2 in the first chunk).
 - Turns followed a fixed order in every chunk: the other reader first, then the reader, then Mahreen, and Hana last. Each person gave one positive comment, then their issues. This kept turns balanced and everyone participated.
-- Mahreen logged each issue in the issue log with a number, location, type and severity, and read it back to confirm. Typos were kept on a separate list.
-- Discussion was limited to about 1 minute per issue. Anything not settled was logged as an open question and we moved on. Hana kept time.
+- Mahreen logged each issue in the issue log with a number, location, type and severity. Typos were kept on a separate list.
+- Discussion was limited to about 1-5 minutes per issue. Anything not settled was logged as an open question and we moved on. Hana kept time.
 - The group voted on the appraisal at the end, then covered the pages inspected, lessons learned and next steps.
 - The meeting took 1 hour 11 minutes 44 seconds (about 71.7 minutes), shorter than the 2-hour slot.
 - We inspected every in-scope section.
